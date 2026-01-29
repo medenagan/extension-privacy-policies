@@ -2,17 +2,15 @@
 
 This repository hosts privacy disclosures for a set of demo / test browser extensions built by https://github.com/medenagan/extension-privacy-policies ("we", "us").
 
-These extensions are used for demonstrations or limited distribution (e.g., sharing an unlisted link with a client). Even in demo form, we aim to minimize data usage and be transparent.
+**Note:** These extensions are **not public extensions** and are intended solely for testing purposes or limited distribution (e.g., shared with specific testers or via unlisted links with clients). They are not available on the Chrome Web Store for general public use. Even in demo/testing form, we aim to minimize data usage and be transparent about our practices.
 
 ---
 
 ## Scope
 
-This policy applies to the following demo extensions ("Extensions"):
+This policy applies to the following demo/test extensions ("Extensions"):
 
 - **Reader (Demo)** – extracts readable article text from the current tab and helps the user send it via email to an inbound address.
-- [Extension Name 2] – [1 line description]
-- [Extension Name 3] – [1 line description]
 
 If an extension has additional data practices beyond what is described here, those will be disclosed in an extension-specific section below.
 
@@ -90,6 +88,4 @@ You can:
 
 ## Contact
 
-For privacy questions or requests:
-- Repository: https://github.com/medenagan/extension-privacy-policies
-- Developer: https://github.com/medenagan/extension-privacy-policies
+For privacy questions or requests, please visit: https://github.com/medenagan/extension-privacy-policies
